@@ -107,14 +107,11 @@ bash qw7b_local.sh
 
 ## Citation
 ```bibtex
-@misc{xie2026qhawkeyereliablevisualpolicy,
-      title={Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment}, 
-      author={Wulin Xie and Rui Dai and Ruidong Ding and Kaikui Liu and Xiangxiang Chu and Xinwen Hou and Jie Wen},
-      year={2026},
-      eprint={2601.22920},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2601.22920}, 
+@article{xie2026qhawkeye,
+  title={Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment},
+  author={Xie, Wulin and Dai, Rui and Ding, Ruidong and Liu, Kaikui and Chu, Xiangxiang and Hou, Xinwen and Wen, Jie},
+  journal={arXiv preprint arXiv:2601.22920},
+  year={2026}
 }
 ```
 
