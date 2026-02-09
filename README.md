@@ -15,7 +15,7 @@ Wulin Xie, Rui Dai, Ruidong Ding, Kaikui Liu, Xiangxiang Chu, Xinwen Hou, Jie We
 ## 🔥 Introduction
 In this paper, we propose Q-Hawkeye, a GRPO-based framework for reliable visual policy optimization in image quality assessment. Built on Qwen2.5-VL-7B, Q-Hawkeye reshapes the RL learning signal from two complementary perspectives: an Uncertainty-Aware Dynamic Optimization strategy that adaptively reweights per image updates based on score variance across rollouts, and a Perception-Aware Optimization module that enforces consistent distributional differences between original and degraded images via an implicit perception loss with double entropy regularization. Extensive experiments on eight IQA benchmarks further demonstrate the effectiveness of the proposed modules,  and show that Q-Hawkeye consistently outperforms existing state-of-the-art methods in both single- and multi-dataset settings, with clear gains in average PLCC/SRCC metrics and improves the model's robustness on challenging out-of-distribution distortions.
 <p align="center">
-  <img src="assets/Framework.pdf">
+  <img src="assets/Framework.jpg">
 </p>
 
 
