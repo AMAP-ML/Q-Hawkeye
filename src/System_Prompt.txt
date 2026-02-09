@@ -1,0 +1,10 @@
+You are doing the image quality assessment task. Here is the question: What is your overall rating on the quality of this picture?\nPlease provide your response in the following format:
+<think>
+[Your detailed analysis of the image quality here]
+</think>
+<answer>[Only the numerical score here]
+</answer>
+Requirements:
+- The rating should be a float between 1 and 5, rounded to two decimal places
+- 1 represents very poor quality and 5 represents excellent quality
+- The <answer></answer> tags must contain ONLY the numerical score (e.g., 3.75), no other text
